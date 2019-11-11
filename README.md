@@ -22,6 +22,8 @@ TypeScript es un lenguaje de programación libre y de código abierto desarrolla
 Está pensado para grandes proyectos, los cuales a través de un compilador de TypeScript se traducen a código JavaScript original.
 Su principal ventaja es la de contar con todas las características presentes en Javascript además de las añadidas por el propio lenguaje, creando un código más limpio y entendible.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TypeScript_Logo.png" alt="IMAGEN: TypeScript">
+
 ## Herramientas de desarrollo
 
 Para programar en este lenguaje, hemos usado la herramienta propia de Microsoft: "Visual Studio Code".

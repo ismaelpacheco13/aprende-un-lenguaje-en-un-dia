@@ -28,9 +28,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* [Ismael Pacheco Torrecilla](github.com/ismaelpacheco13)
-* Elba Lazo
-* Esteban Quito
+* [Ismael Pacheco Torrecilla](https://github.com/ismaelpacheco13)
+* [Diego Martínez Alaminos](https://github.com/diegomartinezalaminos)
+* [Juan Pavón López](https://github.com/JuanPavon)
 
 ## Lenguaje de programación
 

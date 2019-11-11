@@ -18,8 +18,10 @@ Escribe el lenguaje de programación elegido por el grupo.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TypeScript_Logo.png" alt="IMAGEN: TypeScript">
 
-TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft, fue publicado en octubre de 2012 (versión 0.8) después de dos años de desarrollo por parte de Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases y puede ser usado para desarrollar aplicaciones JavaScript que se ejecutarán en el lado del cliente o del servidor (Node.js).
+TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft, fue publicado en octubre de 2012 (versión 0.8) después de dos años de desarrollo por parte de Microsoft.
+Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases y puede ser usado para desarrollar aplicaciones JavaScript que se ejecutarán en el lado del cliente o del servidor (Node.js).
 Está pensado para grandes proyectos, los cuales a través de un compilador de TypeScript se traducen a código JavaScript original.
+
 Su principal ventaja es la de contar con todas las características presentes en Javascript además de las añadidas por el propio lenguaje, creando un código más limpio y entendible.
 
 - Información extraída de la página de [TypeScript](https://es.wikipedia.org/wiki/TypeScript) en [Wikipedia.](https://es.wikipedia.org)

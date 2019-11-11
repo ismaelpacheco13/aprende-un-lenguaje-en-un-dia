@@ -38,7 +38,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* [Typescript](https://www.typescriptlang.org/)
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
@@ -46,9 +46,15 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
+TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft, fue publicado en octubre de 2012 (versión 0.8) después de dos años de desarrollo por parte de Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases y puede ser usado para desarrollar aplicaciones JavaScript que se ejecutarán en el lado del cliente o del servidor (Node.js).
+Está pensado para grandes proyectos, los cuales a través de un compilador de TypeScript se traducen a código JavaScript original.
+Su principal ventaja es la de contar con todas las características presentes en Javascript además de las añadidas por el propio lenguaje, creando un código más limpio y entendible.
+
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Para programar en este lenguaje, hemos usado la herramienta propia de Microsoft: "Visual Studio Code".
+
+<img src="https://code.visualstudio.com/assets/docs/languages/typescript/Languages_typescript.png" alt="IMAGEN: Visual Studio Code + Javascript" width="500" height="500">
 
 ## Poniendo en práctica el lenguaje
 

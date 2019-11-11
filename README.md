@@ -10,13 +10,9 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 ## Lenguaje de programación
 
-El profesor llevará una cajita llena de papelitos con los nombres de distintos lenguajes de programación. Los encargados de cada grupo meterán la mano en la caja y sacarán dos papelitos, de los cuales el grupo elegirá uno. No se permite hacer intercambio de papelitos entre grupos.
-
 Escribe el lenguaje de programación elegido por el grupo.
 
 * [TypeScript](https://www.typescriptlang.org/)
-
-Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
 

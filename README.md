@@ -54,7 +54,7 @@ Su principal ventaja es la de contar con todas las características presentes en
 
 Para programar en este lenguaje, hemos usado la herramienta propia de Microsoft: "Visual Studio Code".
 
-<img src="https://code.visualstudio.com/assets/docs/languages/typescript/Languages_typescript.png" alt="IMAGEN: Visual Studio Code + Javascript" width="500" height="500">
+<img src="https://code.visualstudio.com/assets/docs/languages/typescript/Languages_typescript.png" alt="IMAGEN: Visual Studio Code + Javascript">
 
 ## Poniendo en práctica el lenguaje
 

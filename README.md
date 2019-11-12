@@ -1,5 +1,16 @@
 # TypeScript (Aprende programación en un día)
 
+## Índice
+
+* [Miembros del grupo](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#miembros-del-grupo)
+* [Lenguaje de Programación](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#lenguaje-de-programaci%C3%B3n)
+* [Información sobre el lenguaje](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#informaci%C3%B3n-sobre-el-lenguaje)
+* [Herramientas de desarrollo](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#herramientas-de-desarrollo)
+* [Poniendo en práctica el lenguaje](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#poniendo-en-pr%C3%A1ctica-el-lenguaje)
+	* [¡Hola mundo!](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#1-hola-mundo)
+	* [Pirámide](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#2-pir%C3%A1mide)
+	* [Arrays y números aleatorios](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia#3-arrays-y-n%C3%BAmeros-aleatorios)
+
 ## Miembros del grupo
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.

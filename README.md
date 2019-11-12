@@ -49,11 +49,14 @@ El conocido programa de Hola Mundo es sumamente sencillo de realizar en TypeScri
 console.log("¡Hola Mundo!");
 ```
 
+Y este es el resultado:
+<img src="https://lh3.googleusercontent.com/hK9vhugNCMsmjZYB6-Wdqiju60ZoPgzxlfcWxanmKe692z3ivjTmNpomdOhyWaHNj6Ic2MFYedXaViT1wuQP_L4O-dEAaAikfhWInt-NghD09DqHpbRIFV8wU-P0xmvcK27A7rrsDmHu_zHlfaaEpz4ow1PXdxgP4zFMW6ZLDYOS4oxCzFN99Zi-SBM6NvZwZmwXTuw-A5pUAZyo-D1Asytj5bJPlQrpRYJjHr_D2gfH9gM-E4llmrjNMNwviMnMMDsm8bXfWyDZludh_Nk16WXHHZl5GXHMLQCmHtx8lYC7i1Rgk9EDDac4UojWrszHKicdafblsBaI9yLlCYcoGBSYC_yLYIiI0Om2es_FMm25aFUhqTntZMcggND5PjCs4BewsL66UhWwkJqNIkLK37A5UvG-UhqeyPb1-o5DWf6odJVkCIMPtw_DzZ3OkmTLxHt4yJtay_PFInqS_O3kNkGpioJJK2GzuCs7-Z6gsfsfCKzJtGf_mKSsCGIn8V9BdAes9AnEBh3AWKo0CPWi2Z3pJesOf-cGwxVwj2_F4g-y3qp_cxawLpPEKTAYWyBezwP0TJkj_SeJ8cNmR4eOUBsIEFBglbh09Ikhw1efhQ-9flr1nHMvq70ToeRLRKlagle5eOJ9Y77KTWjyw8u9WYRTSpISdF0--KC-S_IgCO21BGCbyRmOxA=w1101-h46-no" alt="IMAGEN: Hola Mundo!">
+
 ### 2. Pirámide
 
 > Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-Para este ejercicio hemos incorporado al código de TypeScript un formulario en HTML con el que introducir los datos:s
+Para este ejercicio hemos incorporado al código de TypeScript [un formulario en HTML](https://ismaelpacheco13.github.io/aprende-un-lenguaje-en-un-dia/TypeScript/Ejercicio02%20(Pir%C3%A1mide)/index.html) con el que introducir los datos. El código en TypeScript del programa sería el siguiente:
 
 ```typescript
 function dato(){

@@ -6,7 +6,7 @@ var auxcontador:number = 0;
 var cadena:String = "";
 
 console.log("");
-console.log("EL Array aleatorio es: ");
+console.log("El Array aleatorio es: ");
 console.log("");
 
 for(var y = 0;y < 20;y++) {

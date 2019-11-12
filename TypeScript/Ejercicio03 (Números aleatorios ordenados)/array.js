@@ -5,7 +5,7 @@ var contador = 0;
 var auxcontador = 0;
 var cadena = "";
 console.log("");
-console.log("EL Array aleatorio es: ");
+console.log("El Array aleatorio es: ");
 console.log("");
 for (var y = 0; y < 20; y++) {
     var random = Math.floor(Math.random() * 101 + 1);

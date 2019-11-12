@@ -56,7 +56,8 @@ Y este es el resultado:
 
 > Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-Para este ejercicio hemos incorporado al código de TypeScript [un formulario en HTML](https://ismaelpacheco13.github.io/aprende-un-lenguaje-en-un-dia/TypeScript/Ejercicio02%20(Pir%C3%A1mide)/index.html) con el que introducir los datos. El código en TypeScript del programa sería el siguiente:
+Para este ejercicio hemos incorporado al código de TypeScript [un formulario en HTML](https://ismaelpacheco13.github.io/aprende-un-lenguaje-en-un-dia/TypeScript/Ejercicio02%20(Pir%C3%A1mide)/index.html) con el que introducir los datos.  
+El código en TypeScript del programa sería el siguiente:
 
 ```typescript
 function dato(){
@@ -88,17 +89,69 @@ function dato(){
 
 ### 3. Arrays y números aleatorios
 
-Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+> Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
-## Presentación de resultados
+Este ejercicio es el que más líneas de código nos ha ocupado debido a la necesidad de incorporar varios arrays.  
+El código es el siguiente:
 
-Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
+```typescript
+var array:number[] = new Array(20);
+var primos:number[] = new Array();
+var noprimos:number[] = new Array();
+var contador:number = 0;
+var auxcontador:number = 0;
+var cadena:String = "";
 
-## Recompensa
+console.log("");
+console.log("El Array aleatorio es: ");
+console.log("");
 
-* Todos los alumnos que realicen correctamente la actividad tendrán 0'25 puntos extra en la nota del trimestre.
+for(var y = 0;y < 20;y++) {
+  var random = Math.floor(Math.random() * 101 + 1);
+  array[y] = random;
+  cadena = cadena + String(random) + " , "; 
+}
 
-* Los miembros del equipo más votado ganarán un premio.
+console.log(cadena);
+cadena = "";
 
-:star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
+for(var i = 0;i < 20;i++){
+  for(var x = 0;x <= array[i];x++){
+    if ((array[i] % x) == 0){
+      contador++;
+    }
+  }
+  if (contador == 2){
+    primos[auxcontador] = array[i];
+    auxcontador++;
+  }else{
+    noprimos[auxcontador] = array[i];
+    auxcontador++;
+  }
+  contador = 0;   
+}
+
+console.log("");
+console.log("El Array aleatorio con números primos al principio y no primos al final: ")
+console.log("");
+
+var cont:number = 0;
+primos.forEach(element => {
+  cadena = cadena + String(element) + " , ";
+  cont++;
+});
+
+noprimos.forEach(element => {
+  cadena = cadena + String(element) + " , ";
+  cont++;
+});
+
+console.log(cadena);
+```
+
+El resultado sería el siguiente:
+<img src="https://lh3.googleusercontent.com/IqMIdo7PR1Qvi2kijteuZPOiH9hmmdXPJ6TmO6XOmuyD7_-LRYMCnAg_pQQi8EKhfyMLwSLkYcAw-rYlFl1xtwimvd6L05QoJCg--dgW2iGE1j2u_6xCwOHjMLoWCuTsEf57YVc_fvMiC0KH6MBGnT46ARlRtvN4vt-8WKw_8AHpbRW_5yA-ignwNyW9UYOMWO4W90UsEiEE1vhoWX34oiIZH2_IdXRLknZxWmBKYZrec55JEJxPZRmHpVevCFDIfmOwuUb9hdhCI6jTulAFrBuGBRVaTSvoShfIDPEtrWkIeAYy9i__kVDhnudXkxE0HeNSGCg3UjaRFdGi5lrRwLjpfrKn3scGOpxwIzrJZPZ73yZ8AuLzHtOGLvr1_r7bBvcPArR727wCCdjL9J_byAcy-rik9Fxstu3ST9BXwagISqai6Ybv2L_iWcFDOshM20n5w_EaldmT5SxxJBo76W53LSEGpQwSz7_hBu4LJjmF9r3WWmn2JfCuvuYi3uf2FdIdA6aweQwIPv2WtFFy5B0YOW-pMDD_4qXMNjRAO0Zle9gfyr7V9OlzIOfg0htDiWHbviZuEi5vxJbvBtIpd00Pzkmc0_n2R6hOiqiKp1EHv17p2CfiCL3wGzrT23XCkOsaobGkSJ1BRfVgg6Z9SrXwlwV5oy4ewz17xsjPFJxS_mlmXArQzQ=w1202-h162-no" alt="IMAGEN: Array Números Aleatorios (Ordenados)">
+
+
+> :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 

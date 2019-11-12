@@ -50,7 +50,7 @@ console.log("¡Hola Mundo!");
 ```
 
 Y este es el resultado:
-<img src="https://lh3.googleusercontent.com/hK9vhugNCMsmjZYB6-Wdqiju60ZoPgzxlfcWxanmKe692z3ivjTmNpomdOhyWaHNj6Ic2MFYedXaViT1wuQP_L4O-dEAaAikfhWInt-NghD09DqHpbRIFV8wU-P0xmvcK27A7rrsDmHu_zHlfaaEpz4ow1PXdxgP4zFMW6ZLDYOS4oxCzFN99Zi-SBM6NvZwZmwXTuw-A5pUAZyo-D1Asytj5bJPlQrpRYJjHr_D2gfH9gM-E4llmrjNMNwviMnMMDsm8bXfWyDZludh_Nk16WXHHZl5GXHMLQCmHtx8lYC7i1Rgk9EDDac4UojWrszHKicdafblsBaI9yLlCYcoGBSYC_yLYIiI0Om2es_FMm25aFUhqTntZMcggND5PjCs4BewsL66UhWwkJqNIkLK37A5UvG-UhqeyPb1-o5DWf6odJVkCIMPtw_DzZ3OkmTLxHt4yJtay_PFInqS_O3kNkGpioJJK2GzuCs7-Z6gsfsfCKzJtGf_mKSsCGIn8V9BdAes9AnEBh3AWKo0CPWi2Z3pJesOf-cGwxVwj2_F4g-y3qp_cxawLpPEKTAYWyBezwP0TJkj_SeJ8cNmR4eOUBsIEFBglbh09Ikhw1efhQ-9flr1nHMvq70ToeRLRKlagle5eOJ9Y77KTWjyw8u9WYRTSpISdF0--KC-S_IgCO21BGCbyRmOxA=w1101-h46-no" alt="IMAGEN: Hola Mundo!">
+<img src="https://thumbnails-photos.amazon.es/v1/thumbnail/VMCk8DIiRNuvBV8b5Cm0UQ?viewBox=1101%2C46&ownerId=A26ZAV6ILW5Z7P" alt="IMAGEN: Hola Mundo!">
 
 ### 2. Pirámide
 
@@ -150,7 +150,7 @@ console.log(cadena);
 ```
 
 El resultado sería el siguiente:
-<img src="https://lh3.googleusercontent.com/IqMIdo7PR1Qvi2kijteuZPOiH9hmmdXPJ6TmO6XOmuyD7_-LRYMCnAg_pQQi8EKhfyMLwSLkYcAw-rYlFl1xtwimvd6L05QoJCg--dgW2iGE1j2u_6xCwOHjMLoWCuTsEf57YVc_fvMiC0KH6MBGnT46ARlRtvN4vt-8WKw_8AHpbRW_5yA-ignwNyW9UYOMWO4W90UsEiEE1vhoWX34oiIZH2_IdXRLknZxWmBKYZrec55JEJxPZRmHpVevCFDIfmOwuUb9hdhCI6jTulAFrBuGBRVaTSvoShfIDPEtrWkIeAYy9i__kVDhnudXkxE0HeNSGCg3UjaRFdGi5lrRwLjpfrKn3scGOpxwIzrJZPZ73yZ8AuLzHtOGLvr1_r7bBvcPArR727wCCdjL9J_byAcy-rik9Fxstu3ST9BXwagISqai6Ybv2L_iWcFDOshM20n5w_EaldmT5SxxJBo76W53LSEGpQwSz7_hBu4LJjmF9r3WWmn2JfCuvuYi3uf2FdIdA6aweQwIPv2WtFFy5B0YOW-pMDD_4qXMNjRAO0Zle9gfyr7V9OlzIOfg0htDiWHbviZuEi5vxJbvBtIpd00Pzkmc0_n2R6hOiqiKp1EHv17p2CfiCL3wGzrT23XCkOsaobGkSJ1BRfVgg6Z9SrXwlwV5oy4ewz17xsjPFJxS_mlmXArQzQ=w1202-h162-no" alt="IMAGEN: Array Números Aleatorios (Ordenados)">
+<img src="https://thumbnails-photos.amazon.es/v1/thumbnail/gvk50BMNQ9GLLeFkxPwE2w?viewBox=1202%2C162&ownerId=A26ZAV6ILW5Z7P" alt="IMAGEN: Array Números Aleatorios (Ordenados)">
 
 
 > :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).

@@ -38,7 +38,11 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 1. ¡Hola mundo!
 
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+El primer ejercicio es extremadamente sencillo de realizar en TypeScript, ya que se puede llevar a cabo empleando tan solo una línea de código.
+
+```typescript
+console.log("¡Hola Mundo!");
+```
 
 ### 2. Pirámide
 

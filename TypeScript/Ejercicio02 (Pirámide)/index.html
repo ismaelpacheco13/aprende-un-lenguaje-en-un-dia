@@ -6,16 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <script src="PruebaV2.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-    <form name="form">
-        <p>Introduce la altura de la piramide: </p><br>
-        <input type="text" name="altura" id="altura">
-        <br>
-        <p>Introduce el signo de la piramide</p><br>
-        <input type="text" name="signo" id="signo">
-        <br><br>
-        <input type="submit" value="Submit" onclick="dato();">
-    </form>
+    <div id="wrapper">
+        <div id="titulo">¡El pintor de pirámides!</div>
+        <form name="form">
+            <p>Introduce la altura de la pirámide: </p><br>
+            <input type="text" name="altura" id="altura">
+            <br>
+            <p>Introduce el signo de la pirámide: </p><br>
+            <input type="text" name="signo" id="signo">
+            <br><br>
+            <input type="submit" id="submit" value="¡Dibújalo!" onclick="dato();">
+        </form>
+    </div>
 </body>
 </html>

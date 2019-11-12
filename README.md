@@ -38,7 +38,7 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 1. ¡Hola mundo!
 
-El primer ejercicio es extremadamente sencillo de realizar en TypeScript, ya que se puede llevar a cabo empleando tan solo una línea de código.
+**-Para compilar el archivo .ts deberemos de escribir en la consola el siguiente comando: *tsc "nombrearchivo.ts"* y para ejecutar el archivo .js (que se ha creado con el comando anterior) deberemos de escribir este comando: *node "nombrearchivo.js* (ambos comandos sin las comillas en los nombres de los archivos).
 
 ```typescript
 console.log("¡Hola Mundo!");

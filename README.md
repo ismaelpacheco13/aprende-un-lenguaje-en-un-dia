@@ -50,7 +50,7 @@ console.log("¡Hola Mundo!");
 ```
 
 Y este es el resultado:
-<img src="https://thumbnails-photos.amazon.es/v1/thumbnail/VMCk8DIiRNuvBV8b5Cm0UQ?viewBox=1101%2C46&ownerId=A26ZAV6ILW5Z7P" alt="IMAGEN: Hola Mundo!">
+<img src="https://i.ibb.co/Km3KpJw/array.png" alt="IMAGEN: Hola Mundo!">
 
 ### 2. Pirámide
 

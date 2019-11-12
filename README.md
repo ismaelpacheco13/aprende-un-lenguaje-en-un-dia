@@ -36,9 +36,12 @@ Para programar en este lenguaje, hemos usado la herramienta propia de Microsoft:
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
 
+
+> **- Para compilar el archivo .ts deberemos de escribir en la consola el siguiente comando: *tsc "nombrearchivo.ts"* y para ejecutar el archivo .js (que se ha creado con el comando anterior) deberemos de escribir este comando: *node "nombrearchivo.js* (ambos comandos sin las comillas en los nombres de los archivos).**
+
 ### 1. ¡Hola mundo!
 
-**-Para compilar el archivo .ts deberemos de escribir en la consola el siguiente comando: *tsc "nombrearchivo.ts"* y para ejecutar el archivo .js (que se ha creado con el comando anterior) deberemos de escribir este comando: *node "nombrearchivo.js* (ambos comandos sin las comillas en los nombres de los archivos).**
+Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 ```typescript
 console.log("¡Hola Mundo!");

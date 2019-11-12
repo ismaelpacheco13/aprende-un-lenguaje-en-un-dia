@@ -24,7 +24,7 @@ Está pensado para grandes proyectos, los cuales a través de un compilador de T
 
 Su principal ventaja es la de contar con todas las características presentes en Javascript además de las añadidas por el propio lenguaje, creando un código más limpio y entendible.
 
-- Información extraída de la página de [TypeScript](https://es.wikipedia.org/wiki/TypeScript) en [Wikipedia.](https://es.wikipedia.org)
+- Información extraída de la página de [la página de TypeScript](https://es.wikipedia.org/wiki/TypeScript) en [Wikipedia.](https://es.wikipedia.org)
 
 ## Herramientas de desarrollo
 

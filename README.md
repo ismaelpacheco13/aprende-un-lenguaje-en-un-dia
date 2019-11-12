@@ -50,7 +50,7 @@ console.log("¡Hola Mundo!");
 ```
 
 Y este es el resultado:
-<img src="https://i.ibb.co/Km3KpJw/array.png" alt="IMAGEN: Hola Mundo!">
+<img src="https://i.ibb.co/Z2rmD0Q/holamundo.png" alt="IMAGEN: Hola Mundo!">
 
 ### 2. Pirámide
 
@@ -150,7 +150,7 @@ console.log(cadena);
 ```
 
 El resultado sería el siguiente:
-<img src="https://thumbnails-photos.amazon.es/v1/thumbnail/gvk50BMNQ9GLLeFkxPwE2w?viewBox=1202%2C162&ownerId=A26ZAV6ILW5Z7P" alt="IMAGEN: Array Números Aleatorios (Ordenados)">
+<img src="https://i.ibb.co/Km3KpJw/array.png" alt="IMAGEN: Array Números Aleatorios (Ordenados)">
 
 
 > :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).

@@ -4,7 +4,7 @@ function dato() {
     var aux1 = altura;
     aux1 = altura;
     var aux3 = 2;
-    var espacio = " ,";
+    var espacio = "&nbsp;" + "&nbsp;";
     for (var i = 0; i < altura; i++) {
         for (var ii = 1; ii < aux1; ii++) {
             document.write(espacio);

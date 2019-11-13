@@ -5,7 +5,7 @@ function dato(){
     let aux1: number = altura;
     aux1 = altura;
     let aux3: number = 2;
-    let espacio: string = "   ";
+    let espacio: string = "&nbsp;" + "&nbsp;";
 
     for (let i = 0; i < altura; i++) {
         for(let ii = 1; ii < aux1; ii++) {
